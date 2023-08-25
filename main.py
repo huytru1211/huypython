@@ -6,7 +6,7 @@
 # total_daily = total_weekly / 7
 # print( f"Total weekly {total_weekly}")
 # print( f"Total daily {total_daily}")
-print("RTY")
+print("IOP")
 
 
 
