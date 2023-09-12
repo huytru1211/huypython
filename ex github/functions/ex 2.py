@@ -1,13 +1,12 @@
 import random
-
+def number_dice(number):
+    roll = random.randint(1, number)
+    return roll
 number_side= int(input("Please enter the side number wanting to have on the roll dice: "))
-def number_dice(variable):
-    a=0
-    while True:
-        roll = random.randint(1, variable)
-        a=a+1
-        print(f"roll value{a}: {roll}")
-        if(roll == variable):
-            break
-
-number_dice(number_side)
+a=0
+while True:
+    result = number_dice(number_side)
+    a=a+1
+    print(f"roll {a}: {result}")
+    if result == number_side:
+        break
