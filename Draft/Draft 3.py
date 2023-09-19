@@ -1,15 +1,30 @@
-grade=[90,89,80,70,60]
-for no in grade:
-    if no>=90:
-        print(f" your grade is, {no} is A")
-    elif 89>=no>=80:
-        print(f" your grade is, {no} is B")
-    elif 79>=no>=70:
-        print(f" your grade is, {no} is C")
-    elif 69>=no>=60:
-        print(f" your grade is, {no} is C")
-    elif n<=60:
-        print("No see u again")
+import mysql.connector
+
+connection = mysql.connector.connect(
+    host= '127.0.0.1',
+    port= 3306,
+    database= 'people',
+    user= 'dbuser',
+    password= 'pass_word',
+    autocommit=True)
+def getemployeesbylastname(last_name):
+    sql = "SELECT id, lastname, firstname, salary FROM employees"
+    sql = sql + " WHERE lastname='"+ last_name + " '"
+    print(sql)
+    cursor = connection.cursor()
+    cursor.execute(sql)
+    result= cursor.fetchall()
+    if cursor.rowcount > 0:
+        for row in result:
+            print(f"Hello! Im {row[2]} {row[1]}. My salary is {row[3]} euros per month. ")
+    return
+
+
+getemployeesbylastname("Rolola")
+
+
+
+
 
 
 
