@@ -18,9 +18,8 @@ def getemployeesbylastname(last_name):
         for row in result:
             print(f"Hello! Im {row[2]} {row[1]}. My salary is {row[3]} euros per month. ")
     return
-
-
 getemployeesbylastname("Rolola")
+
 
 
 

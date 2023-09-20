@@ -8,6 +8,7 @@ def number1(x):
     S1=S1*0.0001
     money1= price1/S1
     return money1
+
 def number2(y):
     S2 = math.pi * (diameter2 / 2) ** 2
     S2 = S2 * 0.0001

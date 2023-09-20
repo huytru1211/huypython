@@ -1,10 +1,11 @@
-name=[]
-name=input("Enter your name: ")
-index=0
-while name != "" and index < len(name):
-    print(name[index])
-    index = index + 1
-    #index= index + 1
+distance= float(input("Enter your km you want to go: "))
+def number(x):
+    fuel = distance/20
+    return fuel
+result= number(distance)
+print(f"You will need {result} liters to keep your journey")
+
+
 
 
 
