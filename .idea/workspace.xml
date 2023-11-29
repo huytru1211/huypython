@@ -5,17 +5,24 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="94d16303-d05d-443f-a9b6-df9791818e20" name="Changes" comment="Excercise Python">
-      <change afterPath="$PROJECT_DIR$/Relational Database/ex 1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex github/Tuple, Set, Dictionary/ex 1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex github/Tuple, Set, Dictionary/ex 3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex github/Tuple, Set, Dictionary/ex2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/API/ex1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/API/ex2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Inheritance/ex1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Inheritance/ex2.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Association/ex1.py" beforeDir="false" afterPath="$PROJECT_DIR$/Association/ex1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Association/ex3.py" beforeDir="false" afterPath="$PROJECT_DIR$/Association/ex3.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Draft/Draft 3.py" beforeDir="false" afterPath="$PROJECT_DIR$/Draft/Draft 3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Draft/Draft.py" beforeDir="false" afterPath="$PROJECT_DIR$/Draft/Draft.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Draft/draft 4.py" beforeDir="false" afterPath="$PROJECT_DIR$/Draft/draft 4.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Draft/draft 5.py" beforeDir="false" afterPath="$PROJECT_DIR$/Draft/draft 5.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Draft/draft 6.py" beforeDir="false" afterPath="$PROJECT_DIR$/Draft/draft 6.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Draft/draft 7.py" beforeDir="false" afterPath="$PROJECT_DIR$/Draft/draft 7.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex github/functions/ex 6.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex github/functions/ex 6.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Draft/dratf 8.py" beforeDir="false" afterPath="$PROJECT_DIR$/Draft/dratf 8.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ex github/Fundamental OOP/ex 3.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex github/Fundamental OOP/ex 3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ex github/Fundamental OOP/ex 4.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex github/Fundamental OOP/ex 4.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ex github/Fundamental OOP/ex1.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex github/Fundamental OOP/ex1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ex github/Fundamental OOP/ex2.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex github/Fundamental OOP/ex2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ex github/Varibles/ex6.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex github/Varibles/ex6.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,6 +70,7 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
     &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/Huy_HTMLandCSS&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
@@ -71,8 +79,8 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Python.ex 3">
-    <configuration name="draft 4" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.ex2 (1)">
+    <configuration name="Draft" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Huypython1" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -85,7 +93,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Draft/draft 4.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Draft/Draft.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -94,7 +102,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="draft 6" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="ex1 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Huypython1" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -102,12 +110,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Draft" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Association" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Draft/draft 6.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Association/ex1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -116,7 +124,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="ex 1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="ex1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Huypython1" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -124,12 +132,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ex github/Tuple, Set, Dictionary" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Inheritance" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ex github/Tuple, Set, Dictionary/ex 1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Inheritance/ex1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -138,7 +146,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="ex 3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="ex2 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Huypython1" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -146,12 +154,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ex github/Tuple, Set, Dictionary" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Inheritance" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ex github/Tuple, Set, Dictionary/ex 3.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Inheritance/ex2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -160,7 +168,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="ex2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="ex4" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Huypython1" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -168,12 +176,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ex github/Tuple, Set, Dictionary" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Association" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ex github/Tuple, Set, Dictionary/ex2.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Association/ex4.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -206,11 +214,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.ex 3" />
-        <item itemvalue="Python.draft 6" />
-        <item itemvalue="Python.ex2" />
-        <item itemvalue="Python.draft 4" />
-        <item itemvalue="Python.ex 1" />
+        <item itemvalue="Python.ex2 (1)" />
+        <item itemvalue="Python.ex1" />
+        <item itemvalue="Python.ex4" />
+        <item itemvalue="Python.ex1 (1)" />
+        <item itemvalue="Python.Draft" />
       </list>
     </recent_temporary>
   </component>
@@ -251,7 +259,38 @@
       <workItem from="1695065407429" duration="1012000" />
       <workItem from="1695106169168" duration="2684000" />
       <workItem from="1695118192942" duration="17751000" />
-      <workItem from="1695190670039" duration="10307000" />
+      <workItem from="1695190670039" duration="11770000" />
+      <workItem from="1695284517231" duration="2583000" />
+      <workItem from="1695317398359" duration="9027000" />
+      <workItem from="1695361799062" duration="14861000" />
+      <workItem from="1695389923581" duration="23000" />
+      <workItem from="1695389960022" duration="534000" />
+      <workItem from="1695390555689" duration="408000" />
+      <workItem from="1695555228140" duration="27000" />
+      <workItem from="1695650476692" duration="320000" />
+      <workItem from="1695725184352" duration="823000" />
+      <workItem from="1696149466079" duration="2096000" />
+      <workItem from="1696191314510" duration="920000" />
+      <workItem from="1696241712194" duration="53000" />
+      <workItem from="1696335181473" duration="3610000" />
+      <workItem from="1698240735207" duration="3593000" />
+      <workItem from="1698423985316" duration="6081000" />
+      <workItem from="1698502185851" duration="10630000" />
+      <workItem from="1698600083450" duration="11191000" />
+      <workItem from="1698620766265" duration="3139000" />
+      <workItem from="1698651215493" duration="5553000" />
+      <workItem from="1698767334212" duration="17894000" />
+      <workItem from="1698846243287" duration="598000" />
+      <workItem from="1698876097535" duration="150000" />
+      <workItem from="1698918639445" duration="12000" />
+      <workItem from="1699861338121" duration="1276000" />
+      <workItem from="1700061347559" duration="115000" />
+      <workItem from="1700556423443" duration="12714000" />
+      <workItem from="1700584899411" duration="9968000" />
+      <workItem from="1700639099298" duration="11757000" />
+      <workItem from="1700732409267" duration="32000" />
+      <workItem from="1701075112396" duration="18000" />
+      <workItem from="1701287717596" duration="323000" />
     </task>
     <task id="LOCAL-00001" summary="Test commit">
       <option name="closed" value="true" />
@@ -349,7 +388,15 @@
       <option name="project" value="LOCAL" />
       <updated>1695118870282</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="Excercise Python">
+      <option name="closed" value="true" />
+      <created>1695228294521</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1695228294521</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -395,7 +442,7 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/Draft/Draft 3.py</url>
-          <line>28</line>
+          <line>23</line>
           <option name="timeStamp" value="9" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
@@ -403,35 +450,40 @@
           <line>6</line>
           <option name="timeStamp" value="11" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/ex github/Fundamental OOP/ex1.py</url>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/Huypython1$ex_4.coverage" NAME="ex 4 Coverage Results" MODIFIED="1694356535688" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ex github/functions" />
     <SUITE FILE_PATH="coverage/Huypython1$ex_1__1_.coverage" NAME="ex 1 (1) Coverage Results" MODIFIED="1695124247560" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Relational Database" />
-    <SUITE FILE_PATH="coverage/Huypython1$ex_1.coverage" NAME="ex 1 Coverage Results" MODIFIED="1695132317211" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ex github/Tuple, Set, Dictionary" />
+    <SUITE FILE_PATH="coverage/Huypython1$ex_1.coverage" NAME="ex 1 Coverage Results" MODIFIED="1695362893305" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ex github/While loops" />
+    <SUITE FILE_PATH="coverage/Huypython1$ex_4.coverage" NAME="ex 4 Coverage Results" MODIFIED="1698612060730" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ex github/Fundamental OOP" />
     <SUITE FILE_PATH="coverage/Huypython1$ex_3__1_.coverage" NAME="ex 3 (1) Coverage Results" MODIFIED="1694082822493" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ex github/While loops" />
-    <SUITE FILE_PATH="coverage/Huypython1$ex2.coverage" NAME="ex2 Coverage Results" MODIFIED="1695222874204" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ex github/Tuple, Set, Dictionary" />
+    <SUITE FILE_PATH="coverage/Huypython1$ex2.coverage" NAME="ex2 Coverage Results" MODIFIED="1700590692329" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ex github/Fundamental OOP" />
     <SUITE FILE_PATH="coverage/Huypython1$ex_2__1_.coverage" NAME="ex 2 (1) Coverage Results" MODIFIED="1695123615443" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ex github/Tuple, Set, Dictionary" />
-    <SUITE FILE_PATH="coverage/Huypython1$draft_5.coverage" NAME="draft 5 Coverage Results" MODIFIED="1695121609293" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Draft" />
-    <SUITE FILE_PATH="coverage/Huypython1$ex1.coverage" NAME="ex1 Coverage Results" MODIFIED="1693343674300" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ex github/If" />
+    <SUITE FILE_PATH="coverage/Huypython1$draft_5.coverage" NAME="draft 5 Coverage Results" MODIFIED="1696336967415" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Draft" />
+    <SUITE FILE_PATH="coverage/Huypython1$ex1.coverage" NAME="ex1 Coverage Results" MODIFIED="1700650472793" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Inheritance" />
     <SUITE FILE_PATH="coverage/Huypython1$ex4__1_.coverage" NAME="ex4 (1) Coverage Results" MODIFIED="1693403163494" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ex github/If" />
-    <SUITE FILE_PATH="coverage/Huypython1$dratf_8.coverage" NAME="dratf 8 Coverage Results" MODIFIED="1694348649834" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Draft" />
-    <SUITE FILE_PATH="coverage/Huypython1$ex4.coverage" NAME="ex4 Coverage Results" MODIFIED="1693338852432" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ex github/Varibles" />
-    <SUITE FILE_PATH="coverage/Huypython1$draft_7.coverage" NAME="draft 7 Coverage Results" MODIFIED="1695128604330" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Draft" />
-    <SUITE FILE_PATH="coverage/Huypython1$ex1__1_.coverage" NAME="ex1 (1) Coverage Results" MODIFIED="1693335561181" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ex github/Varibles" />
-    <SUITE FILE_PATH="coverage/Huypython1$draft_4.coverage" NAME="draft 4 Coverage Results" MODIFIED="1695136897848" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Draft" />
-    <SUITE FILE_PATH="coverage/Huypython1$ex_3.coverage" NAME="ex 3 Coverage Results" MODIFIED="1695227906649" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ex github/Tuple, Set, Dictionary" />
-    <SUITE FILE_PATH="coverage/Huypython1$Draft_3.coverage" NAME="Draft 3 Coverage Results" MODIFIED="1695119723388" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Draft" />
+    <SUITE FILE_PATH="coverage/Huypython1$dratf_8.coverage" NAME="dratf 8 Coverage Results" MODIFIED="1698829691495" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Draft" />
+    <SUITE FILE_PATH="coverage/Huypython1$ex4.coverage" NAME="ex4 Coverage Results" MODIFIED="1700645378767" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Association" />
+    <SUITE FILE_PATH="coverage/Huypython1$draft_7.coverage" NAME="draft 7 Coverage Results" MODIFIED="1698824184988" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Draft" />
+    <SUITE FILE_PATH="coverage/Huypython1$draft_4.coverage" NAME="draft 4 Coverage Results" MODIFIED="1700584909399" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Draft" />
+    <SUITE FILE_PATH="coverage/Huypython1$ex1__1_.coverage" NAME="ex1 (1) Coverage Results" MODIFIED="1700645250668" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Association" />
+    <SUITE FILE_PATH="coverage/Huypython1$ex_3.coverage" NAME="ex 3 Coverage Results" MODIFIED="1698504088675" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ex github/Fundamental OOP" />
+    <SUITE FILE_PATH="coverage/Huypython1$Draft_3.coverage" NAME="Draft 3 Coverage Results" MODIFIED="1698840772017" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Draft" />
+    <SUITE FILE_PATH="coverage/Huypython1$ex2__1_.coverage" NAME="ex2 (1) Coverage Results" MODIFIED="1700651973214" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Inheritance" />
     <SUITE FILE_PATH="coverage/Huypython1$draft_6.coverage" NAME="draft 6 Coverage Results" MODIFIED="1695223934878" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Draft" />
-    <SUITE FILE_PATH="coverage/Huypython1$ex6.coverage" NAME="ex6 Coverage Results" MODIFIED="1693340207049" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ex github/Varibles" />
     <SUITE FILE_PATH="coverage/Huypython1$Draft_2.coverage" NAME="Draft 2 Coverage Results" MODIFIED="1694157541437" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Draft" />
+    <SUITE FILE_PATH="coverage/Huypython1$ex6.coverage" NAME="ex6 Coverage Results" MODIFIED="1695326786130" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ex github/Varibles" />
     <SUITE FILE_PATH="coverage/Huypython1$main.coverage" NAME="main Coverage Results" MODIFIED="1693334173273" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Huypython1$ex3.coverage" NAME="ex3 Coverage Results" MODIFIED="1693552753515" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ex github/If" />
-    <SUITE FILE_PATH="coverage/Huypython1$Draft.coverage" NAME="Draft Coverage Results" MODIFIED="1694520095805" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Draft" />
+    <SUITE FILE_PATH="coverage/Huypython1$ex3.coverage" NAME="ex3 Coverage Results" MODIFIED="1698840843265" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Association" />
     <SUITE FILE_PATH="coverage/Huypython1$ex_6.coverage" NAME="ex 6 Coverage Results" MODIFIED="1694781349777" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ex github/functions" />
+    <SUITE FILE_PATH="coverage/Huypython1$Draft.coverage" NAME="Draft Coverage Results" MODIFIED="1700639210750" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Draft" />
     <SUITE FILE_PATH="coverage/Huypython1$ex_5.coverage" NAME="ex 5 Coverage Results" MODIFIED="1694516473532" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ex github/functions" />
     <SUITE FILE_PATH="coverage/Huypython1$ex_2.coverage" NAME="ex 2 Coverage Results" MODIFIED="1694544620505" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ex github/functions" />
-    <SUITE FILE_PATH="coverage/Huypython1$ex5.coverage" NAME="ex5 Coverage Results" MODIFIED="1693348188153" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ex github/Varibles" />
+    <SUITE FILE_PATH="coverage/Huypython1$ex5.coverage" NAME="ex5 Coverage Results" MODIFIED="1695321252575" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ex github/Varibles" />
   </component>
 </project>

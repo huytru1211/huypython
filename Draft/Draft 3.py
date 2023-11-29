@@ -1,27 +1,22 @@
-import mysql.connector
+import requests
+import json
 
-connection = mysql.connector.connect(
-    host= '127.0.0.1',
-    port= 3306,
-    database= 'people',
-    user= 'dbuser',
-    password= 'pass_word',
-    autocommit=True)
-def getemployeesbylastname(last_name):
-    sql = "SELECT id, lastname, firstname, salary FROM employees"
-    sql = sql + " WHERE lastname='"+ last_name + " '"
-    print(sql)
-    cursor = connection.cursor()
-    cursor.execute(sql)
-    result= cursor.fetchall()
-    if cursor.rowcount > 0:
-        for row in result:
-            print(f"Hello! Im {row[2]} {row[1]}. My salary is {row[3]} euros per month. ")
-    return
-getemployeesbylastname("Rolola")
+keyword = input("Give me a keyword: ")
 
-
-
+request = "https://api.tvmaze.com/search/shows?q= " + keyword
+response = requests.get(request).json()
+# print(response)
+# print(json.dumps(response, indent = 2))
+# for i in response:
+#     print(i["show"] ["name"])
+try:
+    response = requests.get(request)
+    if response.status_code == 200:
+        json_response = response.json()
+        for i in json_response:
+            print(i["show"]["name"])
+except requests.exceptions.RequestException as e:
+    print("Request cannot be performed")
 
 
 

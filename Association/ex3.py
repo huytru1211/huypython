@@ -50,10 +50,10 @@ class Building:
         print(f"All the elevator is going down")
 
 
-    # def add_elevator(self):
-    #     for i in range(self.number_of_elevator):
-    #         elevator = Elevator(self.bot,self.top)
-    #         self.elevators.append(elevator)
+    def add_elevator(self):
+        for i in range(self.number_of_elevator):
+            elevator = Elevator(self.bot,self.top)
+            self.elevators.append(elevator)
 
 
 building = Building(0,10, 5)
